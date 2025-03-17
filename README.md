@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Zubia Ahsanullah  
 
 ## 🚀 About Me  
-I'm a passionate **Full Stack React.js Developer** with a strong foundation in **frontend and backend technologies**. I love crafting seamless user experiences and building scalable web applications. My expertise spans across **JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, and RESTful APIs**.  
+I'm a passionate Full Stack React.js Developer with a strong foundation in **frontend and backend technologies**. I love crafting seamless user experiences and building scalable web applications. My expertise spans across JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, and RESTful APIs**.  
 
 ---
 
@@ -32,10 +32,8 @@ I am open to collaborating on:
 ---
 
 ## 📬 How to Reach Me  
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-🐙 GitHub: [Your GitHub Profile]  
-💬 Twitter: [Your Twitter Handle]  
+📧 Email: [zubiaahsan925@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/zubia-ahsanullah-303397349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
 
 ---
 
